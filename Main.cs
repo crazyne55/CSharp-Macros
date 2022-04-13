@@ -1,7 +1,9 @@
+using System;
+
 namespace MainApp {
-  public class Main {
-    public void Main() {
-      console.log("*cricket noises*");
+  public class Start {
+    public static void Main() {
+      Console.WriteLine("*cricket noises*");
     }
   }
 }

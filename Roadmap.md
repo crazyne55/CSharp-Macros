@@ -6,6 +6,6 @@
 
 \[ ] Implement functions for basic "steps"
 
-\[ ] Add threading so that the app doesn't freeze when macro is running a "wait step"
+\[X] Add threading so that the app doesn't freeze when macro is running a "wait step"
 
 --- More to be added to roadmap soon!
